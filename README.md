@@ -40,10 +40,11 @@ Transactions on the blockchain (like creating a token, or sending amounts of it)
 
 There is a growing number of personal-token-minting "Decentralized Apps" ("dapps") going around.
 
-I personally favor a very simple/free solution like [Token Mint](https://rekmarks.github.io/tokenminter/) by Erik Marks.
+I personally favor a simple/free solutions like:
+- [ERC Token Generator](https://vittominacori.github.io/erc20-generator/)
+- [Token Mint](https://rekmarks.github.io/tokenminter/)
 
 If that is a bit confusing for you, there are more premium experiences like:
-
 - [Rollup](https://twitter.com/tryrollhq) looks cool, but seems to be in a closed beta.
 
 Whatever technique you use, you should come out with a token address. This is important, you'll want to save it. Mine is this, yours will look similar:
