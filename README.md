@@ -58,6 +58,10 @@ I'll show you how to make a little page for sharing a link to your token [like t
 
 If you just visit [This Site](https://vittominacori.github.io/watch-token/) with MetaMask, you can just add your token address and a link to an icon for showing up in wallets, and it will generate a link you can share with people. You can then click that link yourself, and you now have a pretty token in your wallet! Your wallet should then allow sending tokens to whoever you want.
 
+### Offer Goods and Services for your Tokens
+
+- [microsponsors](https://microsponsors.io/) for selling your time.
+
 ### Establish an initial Exchange Rate
 
 Personal tokens are cool right away, but people will take them more seriously if they can redeem them for real money, right? I sure think so. For example, if the government gave you $1000 of relief funds, but you personally didn't need it, you might use it to back your personal token, and then establish an exchange rate with your friends' tokens, so they could trade for an amount of your tokens, and in turn the underlying funds.
