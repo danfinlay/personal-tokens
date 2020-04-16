@@ -8,7 +8,7 @@ A repository for tools and guides to help rapidly kick-start the personal-token 
 
 You may not have work, you may not have money, but if you have promises you can make and people who would value those promises, you've got yourself the makings of a bond.
 
-A bond can be backed by anything, it can be entirely personal to you. You might do deliveries, or consultations, or grow produce, it doesn't matter. The point is that if you need cash on hand, you need to be able to make some promises that someone else will value. Heck, some close friends or family might value your tokens for free, just because they believe in your potential. You can just say "I promise to try my best to thrive and survive and even make these valuable someday in return".
+A bond can be backed by anything, it can be entirely personal to you. You might do deliveries, or consultations, or grow produce, it doesn't matter. The point is that if you need cash on hand, you need to be able to make some promises that someone else will value. Heck, some close friends or family might value your tokens for free, just because they believe in your potential. You can just say "I promise to try my best to thrive and survive and do good for the world", and some people might want to contribute.
 
 In this repository, I'm going to share with you some tools that are available TODAY that can help you mint your own token, back it with some real value (so people can sell it), establish exchange rates, distribute/sell it, and even redeem it.
 
