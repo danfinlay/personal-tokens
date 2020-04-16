@@ -40,12 +40,9 @@ Transactions on the blockchain (like creating a token, or sending amounts of it)
 
 There is a growing number of personal-token-minting "Decentralized Apps" ("dapps") going around.
 
-I personally favor a simple/free solutions like:
-- [ERC Token Generator](https://vittominacori.github.io/erc20-generator/)
-- [Token Mint](https://rekmarks.github.io/tokenminter/)
-
-If that is a bit confusing for you, there are more premium experiences like:
-- [Rollup](https://twitter.com/tryrollhq) looks cool, but seems to be in a closed beta.
+- [ERC Token Generator](https://vittominacori.github.io/erc20-generator/) is a free tool, and is very simple, so is ideal for advanced users who are willing to use multiple apps or even build their own tools.
+- [Stake on Me](https://stakeonme.com/) is an app that lets you easily create a continuous sale for your own personal token.
+- [Rollup](https://twitter.com/tryrollhq) is a premium personal-token solution that includes store-like features, but is invite-only at time of writing.
 
 Whatever technique you use, you should come out with a token address. This is important, you'll want to save it. Mine is this, yours will look similar:
 `0x4057950247e4ec8dc7fe399ec19ea43e80b931c8`
