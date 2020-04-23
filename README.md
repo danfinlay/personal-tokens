@@ -8,7 +8,7 @@ A repository for tools and guides to help rapidly kick-start the personal-token 
 
 You may not have work, you may not have money, but if you have promises you can make and people who would value those promises, you've got yourself the makings of a bond.
 
-A bond can be backed by anything, it can be entirely personal to you. You might do deliveries, or consultations, or grow produce, it doesn't matter. The point is that if you need cash on hand, you need to be able to make some promises that someone else will value. Heck, some close friends or family might value your tokens for free, just because they believe in your potential. You can just say "I promise to try my best to thrive and survive and even make these valuable someday in return".
+A bond can be backed by anything, it can be entirely personal to you. You might do deliveries, or consultations, or grow produce, it doesn't matter. The point is that if you need cash on hand, you need to be able to make some promises that someone else will value. Heck, some close friends or family might value your tokens for free, just because they believe in your potential. You can just say "I promise to try my best to thrive and survive and do good for the world", and some people might want to contribute.
 
 In this repository, I'm going to share with you some tools that are available TODAY that can help you mint your own token, back it with some real value (so people can sell it), establish exchange rates, distribute/sell it, and even redeem it.
 
@@ -40,12 +40,10 @@ Transactions on the blockchain (like creating a token, or sending amounts of it)
 
 There is a growing number of personal-token-minting "Decentralized Apps" ("dapps") going around.
 
-I personally favor a simple/free solutions like:
-- [ERC Token Generator](https://vittominacori.github.io/erc20-generator/)
-- [Token Mint](https://rekmarks.github.io/tokenminter/)
-
-If that is a bit confusing for you, there are more premium experiences like:
-- [Rollup](https://twitter.com/tryrollhq) looks cool, but seems to be in a closed beta.
+- [ERC Token Generator](https://vittominacori.github.io/erc20-generator/) is a free tool, and is very simple, so is ideal for advanced users who are willing to use multiple apps or even build their own tools.
+- [Stake on Me](https://stakeonme.com/) is an app that lets you easily create a continuous sale for your own personal token.
+- [Rollup](https://twitter.com/tryrollhq) is a premium personal-token solution that includes store-like features, but is invite-only at time of writing.
+- [PersonalToken.me](https://personaltoken.me/) is another nice-looking site for publishing your own tokens from OpenLaw! I haven't gotten to play with it much yet, but I hope to hear from someone who does!
 
 Whatever technique you use, you should come out with a token address. This is important, you'll want to save it. Mine is this, yours will look similar:
 `0x4057950247e4ec8dc7fe399ec19ea43e80b931c8`
@@ -64,13 +62,13 @@ If you just visit [This Site](https://vittominacori.github.io/watch-token/) with
 
 ### Establish an initial Exchange Rate
 
-Personal tokens are cool right away, but people will take them more seriously if they can redeem them for real money, right? I sure think so. For example, if the government gave you $1000 of relief funds, but you personally didn't need it, you might use it to back your personal token, and then establish an exchange rate with your friends' tokens, so they could trade for an amount of your tokens, and in turn the underlying funds.
+Personal tokens are cool right away, but people will take them more seriously if they can redeem them for real money, right? I sure think so.
 
-I recommend using [Uniswap](https://uniswap.exchange/add-liquidity) to "Pool", or create an exchange rate of your token. Rather than simply partially backing your coins, like "The first 100 of my coins are worth $100, and then I'm out!", Uniswap uses something called a [bonding curve](https://yos.io/2018/11/10/bonding-curves/) to offer a buy-back at a variable rate. This is like saying "Yes, my first token is worth $100, but the fewer tokens I have left, the less each token can be redeemed for". This is a neat way of making sure that abrupt runs on your token supply cannot deplete all your reserves, so your tokens will cling to at least _some_ value.
+I recommend using [Uniswap](https://uniswap.exchange/add-liquidity) to "Pool", or create an exchange rate of your token. Rather than simply partially backing your coins, like "The first 100 of my coins are worth $100, and then I'm out!", Uniswap uses something called a [bonding curve](https://yos.io/2018/11/10/bonding-curves/) to offer a buy-back at a variable rate. This is like saying "Yes, my first token is worth $100, but the fewer tokens I have left, the less each token can be redeemed for". Conversely, the more are bought, the more expensive each subsequent token is! This is a neat way of making sure that  runs on your token supply cannot deplete all your reserves, so your tokens will cling to at least _some_ value.
 
-If you're trying to back your token, the more you can back it with, the better it will hold its price, and so the more confident your token's holders will be. Of course, if you just make sure your token holders understand _this is an investment in the future_, they may be good and avoid depleting your reserve.
+If you're trying to back your token, the more you can back it with, the better it will hold its price, and so the more confident your token's holders will be.
 
-Once you have a token exchange rate, you're ready to start selling your tokens! You can just send people links to the uniswap page for buying your tokens, and the more they buy, the higher your token price will rise, approaching the number of tokens you posted for sale on Uniswap (the price will go up exponentially, so you'll probably never sell out of your tokens on Uniswap).
+Once you have a token exchange, you're ready to start selling your tokens! You can just send people links to the uniswap page for buying your tokens, and the more they buy, the higher your token price will rise, approaching the number of tokens you posted for sale on Uniswap (the price will go up exponentially, so you'll never sell out of your tokens on Uniswap).
 
 You can create trading links on Uniswap to send to friends. They look like this:
 
@@ -78,7 +76,7 @@ You can create trading links on Uniswap to send to friends. They look like this:
 
 Except you would replace the last part (my token address) with yours!
 
-## Goals For This Repo
+## Goals For This Readme
 
 Some basic things I'd like to do:
 
