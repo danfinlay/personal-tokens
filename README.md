@@ -76,6 +76,14 @@ You can create trading links on Uniswap to send to friends. They look like this:
 
 Except you would replace the last part (my token address) with yours!
 
+### Tax/Legal Implications
+
+I am not a lawyer, but here is some of my rough understanding:
+
+If sold, depending on how they are sold these could be commodities or securities. The most conservative IRS interpretation may suggest that upon receipt each of these is income earned. Upon trade, there would likely be a taxable capital gains event. We really need to make tax payment easier to do for crypto, and cool projects like Rotki aim to make this tax accounting easier to do: https://rotki.com/
+
+If you live in the U.S., you probably want to be careful and make sure your token isn't a security. The surest way to do this is with the guidance of a lawyer, but you might be able to stay compliant by understanding [the Howey Test](https://en.wikipedia.org/wiki/SEC_v._W._J._Howey_Co.).
+
 ## Goals For This Readme
 
 Some basic things I'd like to do:
