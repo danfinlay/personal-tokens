@@ -33,6 +33,7 @@ Transactions on the blockchain (like creating a token, or sending amounts of it)
 There is a growing number of personal-token-minting "Decentralized Apps" ("dapps") going around.
 
 - [ERC Token Generator](https://vittominacori.github.io/erc20-generator/) is a free tool, and is very simple, so is ideal for advanced users who are willing to use multiple apps or even build their own tools.
+- [Personal Tokenizer](https://lib.openlaw.io/web/default/template/Social%20Tokenizer) a tool by OpenLaw to help issue a legally-compliant token.
 - [Stake on Me](https://stakeonme.com/) is an app that lets you easily create a continuous sale for your own personal token.
 - [Rollup](https://twitter.com/tryrollhq) is a premium personal-token solution that includes store-like features, but is invite-only at time of writing.
 - [PersonalToken.me](https://personaltoken.me/) is another nice-looking site for publishing your own tokens from OpenLaw! I haven't gotten to play with it much yet, but I hope to hear from someone who does!
