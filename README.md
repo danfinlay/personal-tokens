@@ -20,17 +20,9 @@ First of all, you'll need to choose a tool-chain for minting a token, etc. This 
 
 ### Install a Wallet
 
-#### On Desktop or Android
+#### On Desktop, iOS, or Android
 
-Get yourself [MetaMask](https://metamask.io/).
-
-#### On iOS
-
-MetaMask's beta supports limited users right now (we're working to get to the app store asap). In the meanwhile, you should probably use one of these, I won't go into why I still think you should switch to MetaMask when it's ready:
-
-- [Status Wallet](https://status.im/)
-- [TrustWallet](https://trustwallet.com/ethereum-wallet/)
-- [Opera Browser](https://www.opera.com/) (yes, it has a wallet built in)
+Get yourself [MetaMask](https://metamask.io/). It's the wallet I help build, so I can vouch that it does what I describe here.
 
 ### Acquire some Ether
 
